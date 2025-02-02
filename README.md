@@ -1,4 +1,4 @@
-# GBM TCGA-WSI-Annotations
+# Glioblastoma TCGA-WSI-Annotations
 
 This repository contains manually curated annotations for over 60 Whole Slide Images (WSIs) from the **TCGA dataset**. The annotations are provided in JSON format and can be matched with the corresponding TCGA images.
 
@@ -21,3 +21,11 @@ with open("annotations/TCGA-XX-XXXX-01.json", "r") as f:
     annotation = json.load(f)
 
 print(annotation)
+
+## 👩‍💻 Authors and Contact
+This repo was created by:
+
+- **[Eric Liu]** – [Department of Computer Science, Western University]  
+- **[August Lin]** – [Department of Pathology and Lab Medicine, Western University]  
+
+For questions or collaborations, please contact **[hliu823@uwo.ca](mailto:your-email@example.com)**.
