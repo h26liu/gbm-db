@@ -24,9 +24,13 @@ print(annotation)
 ```
 
 ## 👩‍💻 Authors and Contact
-This repo was created by:
+This dataset was curated by:
 
 - **[Eric Liu]** – [Department of Computer Science, Western University]  
-- **[August Lin]** – [Department of Pathology and Lab Medicine, Western University]  
+- **[August Lin]** – [Department of Pathology and Lab Medicine, Western University]
+- **[Pramath Kakodkar]** – [Department of Pathology and Lab Medicine, University of Saskatchewan]
+- **[Yayuan Zhao]** – [Department of Pathology and Lab Medicine, University of Saskatchewan]
+- **[Charles Ling]** – [Department of Computer Science, Western University]
+- **[Qi Zhang]** – [Department of Pathology and Lab Medicine, Western University] 
 
-For questions or collaborations, please contact **[hliu823@uwo.ca](mailto:your-email@example.com)**.
+For questions and collaborations, please contact **[TBD](mailto:your-email@example.com)**.
