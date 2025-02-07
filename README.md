@@ -9,7 +9,7 @@ This repository contains manually curated annotations for over 60 Whole Slide Im
 
 ## 📥 How to Download TCGA Images
 1. Go to [TCGA Data Portal](https://portal.gdc.cancer.gov/)
-2. Search for the **image ID** in `metadata.csv`
+2. Search for the **image ID** in `metadata.xlsx`
 3. Download the corresponding WSI file
 
 ## 🛠 Example Usage
