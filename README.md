@@ -4,6 +4,7 @@ This repository contains manually curated annotations for over 60 Whole Slide Im
 
 ## 📂 Dataset Structure
 - **annotations/**: Contains JSON files with annotation coordinates.
+- **ambiguous/**: Ambiguous cases in JSON format.
 - **metadata.csv**: Maps TCGA image IDs to annotation files.
 - **TO-DO: example/**: Example scripts for using the annotations.
 
@@ -30,6 +31,7 @@ This dataset was curated by:
 - **[August Lin]** – [Department of Pathology and Lab Medicine, Western University]
 - **[Pramath Kakodkar]** – [Department of Pathology and Lab Medicine, University of Saskatchewan]
 - **[Yayuan Zhao]** – [Department of Pathology and Lab Medicine, University of Saskatchewan]
+- **[Boyu Wang]** – [Department of Computer Science, Western University]
 - **[Charles Ling]** – [Department of Computer Science, Western University]
 - **[Qi Zhang]** – [Department of Pathology and Lab Medicine, Western University] 
 
